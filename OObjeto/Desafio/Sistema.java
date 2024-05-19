@@ -1,4 +1,4 @@
-package OoComposicao.Desafio;
+package OObjeto.Desafio;
 
 public class Sistema {
     public static void main(String[] args) {

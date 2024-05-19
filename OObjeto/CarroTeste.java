@@ -1,4 +1,4 @@
-package OoComposicao;
+package OObjeto;
 
 public class CarroTeste {
     public static void main(String[] args) {

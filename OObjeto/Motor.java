@@ -1,4 +1,4 @@
-package OoComposicao;
+package OObjeto;
 
 public class Motor {
     final Carro carro;

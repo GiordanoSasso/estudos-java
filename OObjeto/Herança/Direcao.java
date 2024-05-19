@@ -1,4 +1,4 @@
-package OoComposicao.Herança;
+package OObjeto.Herança;
 
 public enum Direcao {
     
