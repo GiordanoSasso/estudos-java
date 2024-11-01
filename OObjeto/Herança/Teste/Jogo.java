@@ -1,4 +1,8 @@
-package OObjeto.Herança;
+package OObjeto.Herança.Teste;
+
+import OObjeto.Herança.Direcao;
+import OObjeto.Herança.Heroi;
+import OObjeto.Herança.Monstro;
 
 public class Jogo {
     

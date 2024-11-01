@@ -2,7 +2,7 @@ package OObjeto.Herança.Desafio;
 
 public class Ferrari extends Carro {
      
-    Ferrari() {
+    public Ferrari() {
         this(315);
     }
 
